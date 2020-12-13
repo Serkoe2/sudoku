@@ -1,0 +1,88 @@
+body{
+    height: 100vh;
+    max-width: 100vw;
+}
+.head {
+
+margin-left: 0px;
+margin-right: 0px;
+margin: 0px;
+
+}
+dsadas
+.floor {
+
+height: 20%;
+width: 100%;
+border-top: black solid 3px;
+background-color: grey;
+
+}
+
+.LevelSet {
+    
+margin-left: 15px;    
+margin-top: 15px;
+width: 123px;
+height: 19px;
+
+}
+
+table {
+
+border-spacing: 0px;
+
+}
+
+.little-col {
+
+border: 3px solid black;
+border-right: none;
+border-bottom: none;
+width: 3rem;
+height: 3rem;
+text-align: center;
+font-size: x-large;
+font-weight: 600;
+
+}
+
+.right {
+
+border-right: 3px solid black;
+
+}
+
+.bottom {
+
+border-bottom: 3px solid black;
+
+}
+
+.Tabl {
+    visibility: hidden;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.SetNumber {
+
+position: relative;
+margin-left: 1000px;
+width: 123px;
+height: 19px;
+margin-top: 15px;
+visibility: hidden;
+
+}
+
+.SayOk {
+
+visibility: hidden;
+margin-left: 1250px;
+margin-top: 5px;
+
+}
